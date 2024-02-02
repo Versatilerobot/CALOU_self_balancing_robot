@@ -14,4 +14,5 @@ I hope you will enjoy building this robot and have fun seeing it moving and stab
 
 # Présentation du projet lors de l'Apérobot 0x92  - le 13 décembre 2023
 [Apérobot 0x92 : Guy nous présente CALOU ](https://youtu.be/fIwBQCcEI_Y?si=7qKZwHnpSAFOepEM)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fIwBQCcEI_Y?si=7qKZwHnpSAFOepEM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/fIwBQCcEI_Y?si=7qKZwHnpSAFOepEM)
