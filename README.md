@@ -7,5 +7,5 @@ The program was adapted from an application example developed by Antun Skuric, f
 
 CALOU is the mascot of the French robotic association Caliban https://www.facebook.com/AssoCaliban
 
-It can be controlled through a smartphone by using a remote Bluetooth app and simple commands. 
+It can be controlled through a smartphone by using a remote Bluetooth app and simple commands.
 It has a blinking antenna that is activated when switch on.
