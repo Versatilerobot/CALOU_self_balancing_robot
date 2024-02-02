@@ -9,3 +9,8 @@ CALOU is the mascot of the French robotic association [Caliban](https://www.face
 
 It can be controlled through a smartphone by using a remote Bluetooth app and simple commands. 
 I hope you will enjoy building this robot and have fun seeing it moving and stabilize and blinking its antenna.
+
+# You tube
+
+# Présentation du projet lors de l'Apérobot 0x92  - le 13 décembre 2023
+[Apérobot 0x92 : Guy nous présente CALOU ](https://youtu.be/fIwBQCcEI_Y?si=7qKZwHnpSAFOepEM)
