@@ -13,8 +13,11 @@ It can be controlled through a smartphone by using a remote Bluetooth app and si
 I hope you will enjoy building this robot and have fun seeing it moving and stabilize and blinking its antenna.
 
 # You tube
+
 [![CALOU demo](https://i9.ytimg.com/vi_webp/TESaMDyrZCY/mqdefault.webp?v=654650cc&sqp=CKTi9K0G&rs=AOn4CLDTH2RsBjtPC5g1trlTEupyM6n2lQ)](https://youtu.be/TESaMDyrZCY?si=MoILjAsdVkf6BUT1)
+[CALOU demo](https://youtu.be/TESaMDyrZCY?si=MoILjAsdVkf6BUT1)
 
 # Présentation du projet lors de l'Apérobot 0x92  - le 13 décembre 2023
 [![Apérobot 0x92 : Guy nous présente CALOU](https://i.ytimg.com/vi/fIwBQCcEI_Y/maxresdefault.jpg)](https://youtu.be/fIwBQCcEI_Y?si=7qKZwHnpSAFOepEM)
+[Apérobot 0x92 : Guy nous présente CALOU](https://youtu.be/fIwBQCcEI_Y?si=7qKZwHnpSAFOepEM)
 
