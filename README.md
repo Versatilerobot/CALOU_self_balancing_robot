@@ -6,5 +6,6 @@ It is a personal project entirely manufactured in 3D printing and powered by two
 The program was adapted from an application example developed by Antun Skuric, founder of the SimpleFOC project: an Arduino library implementing a Field Oriented Control (FOC) algorithm for BLDC and Stepper motors.  https://github.com/simplefoc/Arduino-FOC-balancer
 
 CALOU is the mascot of the French robotic association Caliban https://www.facebook.com/AssoCaliban
+
 It can be controlled through a smartphone by using a remote Bluetooth app and simple commands. 
 It has a blinking antenna that is activated when switch on.
