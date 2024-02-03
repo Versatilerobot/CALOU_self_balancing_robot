@@ -21,7 +21,7 @@ The following topics are included:
 Mechanical parts manufacturing;  
 Electronic adaptations and wiring;  
 The assembly steps of the robot;  
-The Programming and test;  
+The programming, setting and tests;   
 The starting procedure.
 
 A bill of material is also included: [BOM CALOU-GYROSKATE](/BOM%20CALOU-GYROSKATE.pdf)  
