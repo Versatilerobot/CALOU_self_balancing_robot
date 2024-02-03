@@ -8,7 +8,7 @@ The program was adapted from an application example of [SimpleFOCproject](https:
 
 CALOU is the mascot of the French Robotic Association [Caliban](https://www.facebook.com/AssoCaliban)
 
-It can be controlled through a smartphone by using a remote Bluetooth app and simple commands. 
+It can be controlled through a smartphone by using a remote Bluetooth app and simple commands.   
 I hope you will enjoy building this robot and have fun seeing it moving and stabilize and blinking its antenna.
 
 # CALOU on You tube
