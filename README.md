@@ -14,8 +14,8 @@ I hope you will enjoy building this robot and have fun seeing it moving and stab
 # Assembly Instruction Manual
 
 Assembly instructions have been written in English and French with illustrations to help you in the process step-by-step, making it easier for users to understand and follow:  
-[CALOU - self-balancing robot_EN](/CALOU - self-balancing robot_EN.pdf)!
-[CALOU - robot en gyroskate_FR](/CALOU - robot en gyroskate_FR.pdf)!
+[CALOU - self-balancing robot_EN](CALOU - self-balancing robot_EN.pdf)  
+[CALOU - robot en gyroskate_FR](CALOU - robot en gyroskate_FR.pdf)
 
 # CALOU on YouTube
 [CALOU demo](https://youtu.be/TESaMDyrZCY?si=MoILjAsdVkf6BUT1)
