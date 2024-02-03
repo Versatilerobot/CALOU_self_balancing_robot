@@ -15,7 +15,7 @@ I hope you will enjoy building this robot and have fun seeing it moving and stab
 
 Assembly instructions have been written in English and French with illustrations to help you in the process step-by-step, making it easier for users to understand and follow:  
 
-[CALOU - robot en gyroskate_FR](https://github.com/Versatilerobot/CALOU_self_balancing_robot/edit/main/CALOU - robot en gyroskate_FR.pdf)
+[CALOU - robot en gyroskate_FR](https://github.com/Versatilerobot/CALOU_self_balancing_robot/blob/main/CALOU%20-%20robot%20en%20gyroskate_FR.pdf))
 
 # CALOU on YouTube
 [CALOU demo](https://youtu.be/TESaMDyrZCY?si=MoILjAsdVkf6BUT1)
