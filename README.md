@@ -17,12 +17,8 @@ Assembly instructions have been written in English and French with illustrations
 [CALOU - self-balancing robot_EN](/CALOU%20-%20self-balancing%20robot_EN.pdf)  
 [CALOU - robot en gyroskate_FR](/CALOU%20-%20robot%20en%20gyroskate_FR.pdf)  
 
-The following topics are included:  
-Mechanical parts manufacturing  
-Electronic adaptations and wiring  
-The assembly steps of the robot  
-The programming, setting and tests   
-The starting procedure
+The main chapters are:  
+Mechanical parts manufacturing; Electronic adaptations and wiring; The assembly steps of the robot; The programming, setting and tests; The starting procedure
 
 A bill of material is also included: [BOM CALOU-GYROSKATE](/BOM%20CALOU-GYROSKATE.pdf)  
 And all the STL files for the 3D printing: [3D_STL](/3D_STL)
