@@ -11,6 +11,10 @@ CALOU is the mascot of the French Robotic Association [Caliban](https://www.face
 It can be controlled through a smartphone by using a remote Bluetooth app and simple commands.   
 I hope you will enjoy building this robot and have fun seeing it moving and stabilize and blinking its antenna.
 
+# Assembly Instruction Manual
+
+Assembly instructions have been written in English and French with illustrations to help you in the process step-by-step, making it easier for users to understand and follow:  
+
 # CALOU on YouTube
 [CALOU demo](https://youtu.be/TESaMDyrZCY?si=MoILjAsdVkf6BUT1)
 
