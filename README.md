@@ -17,7 +17,7 @@ Assembly instructions have been written in English and French with illustrations
 [CALOU - self-balancing robot_EN](/CALOU%20-%20self-balancing%20robot_EN.pdf)  
 [CALOU - robot en gyroskate_FR](/CALOU%20-%20robot%20en%20gyroskate_FR.pdf)  
 
-The following topics are included:
+The following topics are included:  
 Mechanical parts manufacturing;  
 Electronic adaptations and wiring;  
 The assembly steps of the robot;  
