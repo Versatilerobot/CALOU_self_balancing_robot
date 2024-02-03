@@ -18,11 +18,11 @@ Assembly instructions have been written in English and French with illustrations
 [CALOU - robot en gyroskate_FR](/CALOU%20-%20robot%20en%20gyroskate_FR.pdf)  
 
 The following topics are included:  
-Mechanical parts manufacturing;  
-Electronic adaptations and wiring;  
-The assembly steps of the robot;  
-The programming, setting and tests;   
-The starting procedure.
+Mechanical parts manufacturing  
+Electronic adaptations and wiring  
+The assembly steps of the robot  
+The programming, setting and tests   
+The starting procedure
 
 A bill of material is also included: [BOM CALOU-GYROSKATE](/BOM%20CALOU-GYROSKATE.pdf)  
 
