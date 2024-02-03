@@ -21,6 +21,11 @@ I hope you will enjoy building this robot and have fun seeing it moving and stab
 
 [![Apérobot 0x92 : Guy nous présente CALOU](https://i.ytimg.com/vi/fIwBQCcEI_Y/maxresdefault.jpg)](https://youtu.be/fIwBQCcEI_Y?si=7qKZwHnpSAFOepEM)
 
+# Author
+
+Guy FEUILLOLEY
+https://www.facebook.com/versat.ilerobot
+
 # MIT License
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
