@@ -25,6 +25,7 @@ The programming, setting and tests
 The starting procedure
 
 A bill of material is also included: [BOM CALOU-GYROSKATE](/BOM%20CALOU-GYROSKATE.pdf)  
+And all the STL files for the 3D printing: [BOM CALOU-GYROSKATE](/BOM%20CALOU-GYROSKATE.pdf)
 
 As a reminder, it is given as is. The author gives no warranty and accepts no responsibility or liability for the accuracy or completeness of the information and materials contained in these instruction manuals.  
 
